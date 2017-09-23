@@ -1,0 +1,1 @@
+curl -F "url=staging-queues-bl.herokuapp.com/new-message"  https://api.telegram.org/bot434005738:AAE7NECtywSBuT7Fq8aiIlj2bGmruCW3h_U/setWebhook
